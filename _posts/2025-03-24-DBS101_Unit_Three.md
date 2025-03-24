@@ -8,7 +8,7 @@ A database is an organized collection of data that can be easily accessed, manag
 
 ## Transaction 
 - A transaction is a single, logical operation that interacts with a database, potentially retrieving or modifying its contents.
-**ACID Properties**
+## ACID Properties
 ![Acid](/assets/unit3/acid.png)
 
 ## ACID Properties in DBMS
@@ -55,10 +55,10 @@ A database is an organized collection of data that can be easily accessed, manag
 
 ## Null values in SQL
 - In SQL, NULL represents missing or unknown data in a table. It requires special handling in operations like arithmetic, comparison, and set operations.
-**Arithmetic Operations:** Any operation with NULL results in NULL.
+### Arithmetic Operations: Any operation with NULL results in NULL.
 - Example: If r.A is NULL, then r.A + 5 is also NULL.
 
-**Comparison Operations:** Evaluates to "unknown" instead of true/false.
+## Comparison Operations: Evaluates to "unknown" instead of true/false.
 - Example: 1 < NULL results in unknown.
 - SQL uses three-valued logic: true, false, unknown.
 ## NULL Testing Predicates:
@@ -79,7 +79,7 @@ A database is an organized collection of data that can be easily accessed, manag
 - In WHERE clauses: tuples with false OR unknown predicates are filtered out.
 
 ## Duplicate Elimination (SELECT DISTINCT):
-**Two values are considered identical if:**
+### Two values are considered identical if:
 - Both are NULL, or
 - Both are non-null and have equal values.
 - Example: {('A', NULL), ('A', NULL)} are treated as identical tuples.
