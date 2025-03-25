@@ -131,29 +131,15 @@ A database is an organized collection of data that can be easily accessed, manag
 - RANK: Provides the rank or order position of the current row.
 
 ## What I have Learned
-- Database: A database organizes, stores, and manages data for easy access and manipulation across various applications.
-
-- Transactions: Transactions follow ACID properties (Atomicity, Consistency, Isolation, Durability) to ensure data integrity.
-
-- SQL Data Definition: SQL defines table structures, column data types, constraints (e.g., NOT NULL, PRIMARY KEY), and indexing.
-
-- SQL Constraints: Constraints enforce data integrity and prevent invalid entries in tables.
-
-- SQL Queries: Queries use SELECT, INSERT, UPDATE, DELETE, etc., to interact with data. NULL values are handled carefully.
-
-- Set Operations & Duplicates: SQL set operations (UNION, INTERSECTION) treat NULLs as identical, and SELECT DISTINCT eliminates duplicates.
-
-- Subqueries: Nested queries enable complex logic but can be hard to optimize. They access outer query attributes but not vice versa.
-
-- Set Membership: The IN and NOT IN operators test for the presence or absence of values in a set.
-
-- Testing Relations: SQL checks for empty relations and duplicate tuples. Subqueries in the FROM clause can return relations.
-
-- WITH Clause (CTE): The WITH clause defines temporary result sets to improve query readability and maintainability.
-
-- Scalar Subqueries: Scalar subqueries return single values and are often used in SELECT, WHERE, or expressions.
-
-- Data Modification: SQL allows data modification with DELETE, INSERT, and UPDATE for whole rows or values.
+1. Database: A database organizes, stores, and manages data for easy access and manipulation across various applications.
+2. Transactions: Transactions follow ACID properties (Atomicity, Consistency, Isolation, Durability) to ensure data integrity.
+3. SQL Data Definition: SQL defines table structures, column data types, constraints (e.g., NOT NULL, PRIMARY KEY), and indexing.
+4. SQL Constraints: Constraints enforce data integrity and prevent invalid entries in tables.
+5. SQL Queries: Queries use SELECT, INSERT, UPDATE, DELETE, etc., to interact with data. NULL values are handled carefully.
+6. Set Operations & Duplicates: SQL set operations (UNION, INTERSECTION) treat NULLs as identical, and SELECT DISTINCT eliminates duplicates.
+7. Subqueries: Nested queries enable complex logic but can be hard to optimize. They access outer query attributes but not vice versa.
+8. Set Membership: The IN and NOT IN operators test for the presence or absence of values in a set.
+9. Data Modification: SQL allows data modification with DELETE, INSERT, and UPDATE for whole rows or values.
 
 
 
