@@ -1,7 +1,7 @@
 ---
 Title: Intern first week class1 
 categories: [Intern first_week_class1]
-tags: [Intern]
+tags: [DBS101Intern]
 ---
 
 ## Introduction
