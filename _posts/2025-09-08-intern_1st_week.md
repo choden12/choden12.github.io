@@ -1,14 +1,14 @@
 ---
 Title: Intern first week class1 
 categories: [Intern first_week_class1]
-tags: [Intern]
+tags: [Internship]
 ---
 
 ## Introduction
-Week 1 (04/08/2025 - 08/08/2025)
-Hello, I am Sangay Choden, currently working as a Software Developer intern at Tech Park Limited (TTPL). This internship runs from August 4th to August 8th, 2025. Our team consists of four interns — two from the College of Science and Technology (CST) and two from India.
+#### Week 1 (04/08/2025 - 08/08/2025)
+- Hello, I am Sangay Choden, currently working as a Software Developer intern at Tech Park Limited (TTPL). This internship runs from August 4th to August 8th, 2025. Our team consists of four interns — two from the College of Science and Technology (CST) and two from India.
 
-Under the guidance of our team lead, I, along with my colleagues Yeshey, Phurpa, and Dilliram, have been assigned to develop a Project Management System for the company. The goal of this system is to efficiently track the progress of ongoing projects. During this first week, we focused on designing the project structure and user interface using Figma. We completed the design phase on schedule and presented our work to the Head of Department for feedback.
+- Under the guidance of our team lead, I, along with my colleagues Yeshey, Phurpa, and Dilliram, have been assigned to develop a Project Management System for the company. The goal of this system is to efficiently track the progress of ongoing projects. During this first week, we focused on designing the project structure and user interface using Figma. We completed the design phase on schedule and presented our work to the Head of Department for feedback.
 
 ## Highlight
 1. Design for Desktop view 
