@@ -1,6 +1,6 @@
 ---
-Title: Intern first week class1 
-categories: [Intern first_week_class1]
+Title: Intern first_week  
+categories: [Intern first_week]
 tags: [Intern]
 ---
 
