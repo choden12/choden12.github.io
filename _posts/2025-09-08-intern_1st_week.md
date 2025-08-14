@@ -1,14 +1,14 @@
 ---
-Title: Intern first_week  
-categories: [Intern first_week]
-tags: [Intern]
+title: "Intern First Week"
+categories: ["intern_first_week"]  
+tags: ["intern"]
 ---
 
 ## Introduction
 #### Week 1 (04/08/2025 - 08/08/2025)
 - Hello, I am Sangay Choden, currently working as a Software Developer intern at Tech Park Limited (TTPL). This internship runs from August 4th to August 8th, 2025. Our team consists of four interns two from the College of Science and Technology (CST) and two from India.
 
-- Under the guidance of our team lead, I, along with my colleagues Yeshey, Phurpa, and Dilliram, have been assigned to develop a Project Management System for the company. The goal of this system is to efficiently track the progress of ongoing projects. During this first week, we focused on designing the project structure and user interface using Figma. We completed the design phase on schedule and presented our work to the Head of Department for feedback.
+- Under the guidance of our team lead, I, along with my colleagues Yeshey, Phurpa, and Dilliram, have been assigned to develop a Project Management System for the company. The goal of this system is to efficiently track the progress of ongoing projects. During this first week, we focused on designing the project structure and user interface using Figma. We completed the design phase on schedule and presented our work to our mentor for feedback.
 
 ## Highlight
 1. Design for Desktop view 
@@ -21,7 +21,7 @@ tags: [Intern]
 - Gained practical experience using Figma for UI/UX design, improving my ability to visualize and structure a real-world software project.
 - Developed time management skills by completing the design phase within a strict one-week deadline.
 - Improved problem-solving and design thinking skills by iterating and refining our project interface based on team input and best practices.
-- Experienced firsthand the importance of clear documentation and presentation skills when sharing our design with the Head of Department.
+- Experienced firsthand the importance of clear documentation and presentation skills when sharing our design with the our mentor.
 
 ## Industry Insights
 - Realized that modern software development requires proficiency not only in coding but also in design tools like Figma to build user-friendly applications.
@@ -37,10 +37,11 @@ Although we did not face major issues during the design phase, coordinating idea
 - Ensuring that the design met the requirements of all potential users (desktop and mobile) involved multiple rounds of discussion and revisions.
 
 ## Next week's plan
--  Begin frontend development by implementing the UI components designed in Figma using React.js.
-- Start backend development focusing on setting up the server, database schema, and API endpoints using Node.js and Express.
-- Integrate frontend and backend to allow basic user interactions like project creation and status updates.
-- Conduct regular team meetings to track progress and address any development challenges.
-- Explore testing tools and write initial unit tests to ensure code quality and stability.
-- Prepare for a mid-internship presentation to demonstrate the working prototype to the team lead and gather feedback.
+Review our current Figma design and improve it by addressing the concepts we missed during the first week, such as proper component usage, consistent spacing, and responsive design adjustments.
+- Finalize all design assets for both desktop and mobile views to ensure a smooth transition to development.
+- Begin frontend development by implementing the improved UI using React.js.
+- Start backend development by setting up the server, creating the database schema, and defining API endpoints using Node.js and Express.
+- Integrate frontend and backend to enable basic project management features such as creating, editing, and tracking projects.
+- Schedule regular review sessions with the team lead to get feedback on both the design improvements and the initial development progress.
+- Document all changes and progress for easier reference during future development stages.
 
