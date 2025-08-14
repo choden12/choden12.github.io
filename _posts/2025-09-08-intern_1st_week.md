@@ -1,7 +1,7 @@
 ---
-title: "Intern First Week"
-categories: ["intern_first_week"]  
-tags: ["intern"]
+title: Intern First Week
+categories: [intern_first_week]  
+tags: [intern]
 ---
 
 ## Introduction
