@@ -1,6 +1,6 @@
 ---
 title: Intern First Week
-categories: [intern_first_week]  
+categories: [intern-first-week]  
 tags: [intern]
 ---
 
