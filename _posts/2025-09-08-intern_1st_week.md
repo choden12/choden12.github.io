@@ -1,11 +1,11 @@
 ---
-title: intern First-Week
-categories: [intern-first-week]  
+title: intern 1st_week
+categories: [intern 1st_week]  
 tags: [intern]
 ---
 
 ## Introduction
-#### Week 1 (04/08/2025 - 08/08/2025)
+#### Week 1 (04/08/2025 - 11/08/2025)
 - Hello, I am Sangay Choden, currently working as a Software Developer intern at Tech Park Limited (TTPL). This internship runs from August 4th to August 8th, 2025. Our team consists of four interns two from the College of Science and Technology (CST) and two from India.
 
 - Under the guidance of our team lead, I, along with my colleagues Yeshey, Phurpa, and Dilliram, have been assigned to develop a Project Management System for the company. The goal of this system is to efficiently track the progress of ongoing projects. During this first week, we focused on designing the project structure and user interface using Figma. We completed the design phase on schedule and presented our work to our mentor for feedback.
@@ -37,11 +37,14 @@ Although we did not face major issues during the design phase, coordinating idea
 - Ensuring that the design met the requirements of all potential users (desktop and mobile) involved multiple rounds of discussion and revisions.
 
 ## Next week's plan
-Review our current Figma design and improve it by addressing the concepts we missed during the first week, such as proper component usage, consistent spacing, and responsive design adjustments.
-- Finalize all design assets for both desktop and mobile views to ensure a smooth transition to development.
-- Begin frontend development by implementing the improved UI using React.js.
-- Start backend development by setting up the server, creating the database schema, and defining API endpoints using Node.js and Express.
-- Integrate frontend and backend to enable basic project management features such as creating, editing, and tracking projects.
-- Schedule regular review sessions with the team lead to get feedback on both the design improvements and the initial development progress.
-- Document all changes and progress for easier reference during future development stages.
+1. Review & Improve Current Figma Design
+- Revisit our existing Figma files.
+- Address missed concepts from Week 1, especially proper component usage (e.g., ensuring different positions have distinct roles and functionality).
+
+2. Finalize Design Assets
+- Prepare all assets for both desktop and mobile views.
+- Ensure designs are developer-ready for a smooth transition into the development phase.
+
+3. Design ERD (Entity Relationship Diagram)
+- Create and validate the ERD to reflect the latest system requirements.
 
