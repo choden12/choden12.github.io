@@ -1,7 +1,7 @@
 ---
-Title: ReflectiveJournal_Week16 month_3and4
-categories: [ReflectiveJournal, Month_3and4]
-tags: [ReflectiveJournal]
+Title: Reflective_Journal Month_3
+categories: [Reflective_Journal, Month_3]
+tags: [Reflective_Journal]
 ---
 - The final phase of my internship, covering Month 3 and Month 4, allowed me to dive deeper into dashboard development and project integration. By this time, I had become more comfortable working in a professional environment, understood the development workflow more clearly, and felt more confident in my abilities. These two months involved completing the Admin Dashboard, building the Manager Dashboard, implementing the Forgot Password feature, and merging all final work into the main project branch.
 

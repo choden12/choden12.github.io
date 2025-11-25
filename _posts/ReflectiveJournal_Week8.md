@@ -1,7 +1,7 @@
 ---
-Title: ReflectiveJournal_Week8 month_2
-categories: [ReflectiveJournal, Month_2]
-tags: [ReflectiveJournal]
+Title: Reflective_Journal Month_2
+categories: [Reflective_Journal, Month_2]
+tags: [Reflective_Journal]
 ---
 ## Reflection
 - The second month of my internship at Tech Park Limited (TTPL) marked a major turning point as I transitioned from solely focusing on UI/UX design to actively developing real system components. This shift introduced me to the core of full-stack development and challenged me to apply technical concepts that I had only studied theoretically before. Month 2 was intense, engaging, and filled with practical learning moments that significantly strengthened my understanding of software development. Although our team reduced from four interns to two, this unexpected change pushed me to take on greater responsibilities and grow both technically and professionally.

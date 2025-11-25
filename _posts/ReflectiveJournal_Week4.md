@@ -1,7 +1,7 @@
 ---
-Title: ReflectiveJournal_Week4 month_1
-categories: [ReflectiveJournal, Month_1]
-tags: [ReflectiveJournal]
+Title: Reflective_Journal Month_1
+categories: [Reflective_Journal, Month_1]
+tags: [Reflective_Journal]
 ---
 
 ## Reflection
