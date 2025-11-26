@@ -1,11 +1,8 @@
 ---
-layout: post
-title: "Reflective Journal - Week 4"
-date: 2025-01-25 12:00:00 
-categories: ["Reflective_Journal", "Month_1"]
-tags: ["Reflective_Journal"]
+Title: Reflective_Journal Month_1
+categories: [Reflective_Journal, Month_1]
+tags: [Reflective_Journal]
 ---
-
 
 ## Reflection
 - My internship at Tech Park Limited (TTPL) began with a strong emphasis on understanding the foundation of software development through UI/UX design. During these first four weeks, I worked as part of a four-member intern team to develop a Project Management System for the company. Under the guidance of our mentor, our main responsibility for the first month was to design a user-friendly, visually consistent, and professionally aligned Figma prototype that matched the company’s requirements.
